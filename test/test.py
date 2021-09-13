@@ -108,3 +108,4 @@ for i in d1:
 
 for i in d1.values():
     print(i)
+# 저장
