@@ -102,10 +102,11 @@
 # s1={10,20,30} #len(s1) == 3
 
 # Dictionary(사전): key, value couple(쌍), 중복 '값' 허용, ***index없음(key사용)
-d1={'name':'Jang Yeon Seo','age':27,'ciry':'cheonan','mobile':'82265231'}
-for i in d1:
-    print(i)
 
-for i in d1.values():
-    print(i)
+# d1={'name':'Jang Yeon Seo','age':27,'ciry':'cheonan','mobile':'82265231'}
+# for i in d1:
+#     print(i)
+
+# for i in d1.values():
+#     print(i)
 # 저장
